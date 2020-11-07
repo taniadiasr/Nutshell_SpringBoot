@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "3f689bbf-ce57-4f68-bba3-a05acfc95b46",
+		"name": "Nutshell_SpringBoot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "0 Greeting",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
